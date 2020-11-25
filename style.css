@@ -1,0 +1,40 @@
+*,
+body {
+    margin: 5;
+    padding: 5;
+}
+
+body {
+    color: #0000;
+}
+
+
+/* navbar */
+
+nav {
+    position: relative;
+    width: 50%;
+    height: 40px;
+    background-color: #0000;
+    box-shadow: -1px -7px 10px 0px #0000;
+}
+
+nav ul {
+    position: relative;
+    top: 20 px;
+    margin: 0;
+    float: right;
+    right: 10%;
+}
+
+nav ul li {
+    float: left;
+    display: block;
+    margin: 0px 15 px o px 15 px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #800080;
+    font-family: 'Helvetica', sans-serif;
+}
